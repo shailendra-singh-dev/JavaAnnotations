@@ -1,4 +1,4 @@
-package com.shail.annotations;
+package com.shail.annotations.copyright;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

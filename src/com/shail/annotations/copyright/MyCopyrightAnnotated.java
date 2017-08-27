@@ -1,4 +1,4 @@
-package com.shail.annotations;
+package com.shail.annotations.copyright;
 
 public class MyCopyrightAnnotated {
 
